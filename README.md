@@ -9,7 +9,7 @@ To execute the code, go to `build/` and run
     
 Mode = 0 FLIP
 
-1 PIC
+Mode = 1 PIC
 
-2 FLIP 0.95 and PIC 0.5
+Mode = 2 FLIP 0.95 and PIC 0.5
 
