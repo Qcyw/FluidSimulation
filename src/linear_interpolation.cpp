@@ -55,7 +55,3 @@ void linear_interpolation(double &alpha, Eigen::VectorXd &q, Eigen::VectorXd &qd
 	}	
 	alpha = 1 - alpha;
 }
-
-// blobbies(phi, q, qdot, x, dx);
-		// std::cout << "Iter: " << i<< std::endl;
-		// std::cout << "phi: " << phi << std::endl;
