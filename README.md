@@ -1,7 +1,7 @@
 # FluidSimulation
 Fluid simulation using FLIP
 
-For installation please follow (link)[https://github.com/dilevin/CSC417-a1-mass-spring-1d]
+For installation please follow [link](https://github.com/dilevin/CSC417-a1-mass-spring-1d)
 
 To execute the code, go to `build/` and run
 
